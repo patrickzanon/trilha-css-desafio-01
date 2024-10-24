@@ -12,7 +12,7 @@ p{
     height: 600px;
     padding-top: 60px;
     border-bottom: 1px solid #33A8DB80;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.50)0%, rgba(51, 168, 219, 0.15)50%, rgba(0, 0, 0, 0.08)100%), url('/assets/images/banner.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50)0%, rgba(51, 168, 219, 0.15)50%, rgba(0, 0, 0, 0.08)100%), url("assets/images/banner.png");
 }  
 .banner .banner-content{
     width: 510px;
@@ -97,7 +97,7 @@ h1{
     height: 368px;
     border-top: 1px solid rgba(51, 168, 219, 0.5);
     border-bottom: 1px solid rgba(51, 168, 219, 0.5);
-    background-image: url('/assets/images/woman-code.png');
+    background-image: url("assets/images/woman-code.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
