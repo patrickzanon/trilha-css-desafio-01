@@ -93,14 +93,15 @@ h1{
     color: #33A8DB;
 }
 
-#transform-world{
+#transform-world {
     height: 368px;
-    border-top: 1px solid #33A8DB80;
-    border-bottom: 1px solid #33A8DB80;
+    border-top: 1px solid rgba(51, 168, 219, 0.5);
+    border-bottom: 1px solid rgba(51, 168, 219, 0.5);
     background-image: url('assets/images/woman-code.png');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }   
 #transform-world p{
     width: 244px;
